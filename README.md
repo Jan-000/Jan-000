@@ -1,6 +1,6 @@
 Hi, my name is Jan. Previously, I´ve been working as an architect, but now I am switching to IT.
-I am currently learning JavaScript (Ironhack Web-Dev bootcamp until March 2022).
-Meanwhile, water is my passion (as such, but also for sport).
+I  have completed Ironhack Web-Dev bootcamp (March 2022), mainly focused on JavaScript and React.
+Other than programming, water is my great passion - be it landscape, watersport or backbone of world trade.
 
 
 <!---
